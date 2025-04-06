@@ -131,6 +131,9 @@ streamlit run main.py
 ### Demo Video
   ![video](https://youtu.be/gAc2lLf4XGI)
 
+### Contributor
+  ![Nikita Verma](https://github.com/Nikitav0608)
+
 ### 📜 License
 
 This project is under the MIT License. Feel free to use or improve!
