@@ -129,10 +129,10 @@ streamlit run main.py
 
 ---
 ### Demo Video
-  ![video](https://youtu.be/gAc2lLf4XGI)
+  [video](https://youtu.be/gAc2lLf4XGI)
 
 ### Contributor
-  ![Nikita Verma](https://github.com/Nikitav0608)
+  [Nikita Verma](https://github.com/Nikitav0608)
 
 ### 📜 License
 
