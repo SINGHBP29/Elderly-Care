@@ -128,11 +128,10 @@ streamlit run main.py
 - Streamlit Community 
 
 ---
+### Demo Video
+  ![video](https://youtu.be/gAc2lLf4XGI)
 
 ### 📜 License
 
 This project is under the MIT License. Feel free to use or improve!
 
----
-
-Would you like this saved as a `.md` file for your project folder? Or want help creating a pitch slide based on this?
