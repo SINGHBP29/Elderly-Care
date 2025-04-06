@@ -1,0 +1,8 @@
+streamlit
+requests
+pandas
+dotenv
+# langchain
+speechrecognition 
+pyttsx3
+pyaudio
