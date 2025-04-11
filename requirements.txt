@@ -2,7 +2,12 @@ streamlit
 requests
 pandas
 dotenv
-# langchain
+langchain
 speechrecognition 
 pyttsx3
 pyaudio
+faiss-cpu
+sentence-transformers
+crewai
+langchain_community
+crewai['tools']
