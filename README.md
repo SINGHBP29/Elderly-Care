@@ -71,7 +71,7 @@ An easy-to-use **AI-powered assistant** that:
 ## 📁 Folder Structure
 
 ```
-elderly-care-assistant/
+Elderly_AI_Assistant/
 ├── main.py                        # Entry point with user selection
 ├── pages/
 │   ├── elder_dashboard (1).py     # Elder interface
